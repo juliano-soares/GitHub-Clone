@@ -6,7 +6,7 @@ UI Clone - GitHub
 <p align="center">Click <a href="https://musing-neumann-065d1b.netlify.app/">here</a> to live preview.</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/juliano-soares/Clone-Discord">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/juliano-soares/GitHub-Clone">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
